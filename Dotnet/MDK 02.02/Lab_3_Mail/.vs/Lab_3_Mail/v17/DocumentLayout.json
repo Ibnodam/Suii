@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|c:\\users\\valij\\academic projects\\lab_3_mail\\lab_3_mail\\subscribers\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|solutionrelative:lab_3_mail\\subscribers\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|c:\\users\\valij\\academic projects\\lab_3_mail\\lab_3_mail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|solutionrelative:lab_3_mail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|c:\\users\\valij\\academic projects\\lab_3_mail\\lab_3_mail\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|solutionrelative:lab_3_mail\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|c:\\users\\valij\\academic projects\\lab_3_mail\\lab_3_mail\\entities\\mailoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|solutionrelative:lab_3_mail\\entities\\mailoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|c:\\users\\valij\\academic projects\\lab_3_mail\\lab_3_mail\\entities\\printedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|solutionrelative:lab_3_mail\\entities\\printedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|c:\\users\\valij\\academic projects\\lab_3_mail\\lab_3_mail\\observer\\ipublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|solutionrelative:lab_3_mail\\observer\\ipublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|c:\\users\\valij\\academic projects\\lab_3_mail\\lab_3_mail\\observer\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF76590-7438-488C-9C3E-38EC3964E3F8}|Lab_3_Mail\\Lab_3_Mail.csproj|solutionrelative:lab_3_mail\\observer\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Subscribers\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Lab_3_Mail\\Subscribers\\Subscriber.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Subscribers\\Subscriber.cs",
+              "RelativeToolTip": "Lab_3_Mail\\Subscribers\\Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:46:48.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrintEdition.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Entities\\PrintEdition.cs",
+              "RelativeDocumentMoniker": "Lab_3_Mail\\Entities\\PrintEdition.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Entities\\PrintEdition.cs",
+              "RelativeToolTip": "Lab_3_Mail\\Entities\\PrintEdition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:46:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Entities\\Publisher.cs",
+              "RelativeDocumentMoniker": "Lab_3_Mail\\Entities\\Publisher.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Entities\\Publisher.cs",
+              "RelativeToolTip": "Lab_3_Mail\\Entities\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:46:27.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailOffice.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Entities\\MailOffice.cs",
+              "RelativeDocumentMoniker": "Lab_3_Mail\\Entities\\MailOffice.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Entities\\MailOffice.cs",
+              "RelativeToolTip": "Lab_3_Mail\\Entities\\MailOffice.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:46:11.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Observer\\IPublisher.cs",
+              "RelativeDocumentMoniker": "Lab_3_Mail\\Observer\\IPublisher.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Observer\\IPublisher.cs",
+              "RelativeToolTip": "Lab_3_Mail\\Observer\\IPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Observer\\ISubscriber.cs",
+              "RelativeDocumentMoniker": "Lab_3_Mail\\Observer\\ISubscriber.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Observer\\ISubscriber.cs",
+              "RelativeToolTip": "Lab_3_Mail\\Observer\\ISubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:40.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_3_Mail\\Program.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_3_Mail\\Lab_3_Mail\\Program.cs",
+              "RelativeToolTip": "Lab_3_Mail\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:44:20.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
