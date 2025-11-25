@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valij\\Academic Projects\\RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|c:\\users\\valij\\academic projects\\rpg\\rpg\\prototype\\warriorprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|solutionrelative:rpg\\prototype\\warriorprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|c:\\users\\valij\\academic projects\\rpg\\rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|solutionrelative:rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|c:\\users\\valij\\academic projects\\rpg\\rpg\\builder\\characterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|solutionrelative:rpg\\builder\\characterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|c:\\users\\valij\\academic projects\\rpg\\rpg\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|solutionrelative:rpg\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|c:\\users\\valij\\academic projects\\rpg\\rpg\\prototype\\characterprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|solutionrelative:rpg\\prototype\\characterprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|c:\\users\\valij\\academic projects\\rpg\\rpg\\prototype\\archerprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|solutionrelative:rpg\\prototype\\archerprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|c:\\users\\valij\\academic projects\\rpg\\rpg\\prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|solutionrelative:rpg\\prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|c:\\users\\valij\\academic projects\\rpg\\rpg\\prototype\\mageprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376941-95AF-4DB9-90D1-F3276A001046}|RPG\\RPG.csproj|solutionrelative:rpg\\prototype\\mageprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Builder\\CharacterBuilder.cs",
+              "RelativeDocumentMoniker": "RPG\\Builder\\CharacterBuilder.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Builder\\CharacterBuilder.cs",
+              "RelativeToolTip": "RPG\\Builder\\CharacterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:09:32.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Builder\\Character.cs",
+              "RelativeDocumentMoniker": "RPG\\Builder\\Character.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Builder\\Character.cs",
+              "RelativeToolTip": "RPG\\Builder\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:09:01.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArcherPrototype.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Prototype\\ArcherPrototype.cs",
+              "RelativeDocumentMoniker": "RPG\\Prototype\\ArcherPrototype.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Prototype\\ArcherPrototype.cs",
+              "RelativeToolTip": "RPG\\Prototype\\ArcherPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:08:32.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MagePrototype.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Prototype\\MagePrototype.cs",
+              "RelativeDocumentMoniker": "RPG\\Prototype\\MagePrototype.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Prototype\\MagePrototype.cs",
+              "RelativeToolTip": "RPG\\Prototype\\MagePrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:08:10.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarriorPrototype.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Prototype\\WarriorPrototype.cs",
+              "RelativeDocumentMoniker": "RPG\\Prototype\\WarriorPrototype.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Prototype\\WarriorPrototype.cs",
+              "RelativeToolTip": "RPG\\Prototype\\WarriorPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:07:29.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterPrototype.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Prototype\\CharacterPrototype.cs",
+              "RelativeDocumentMoniker": "RPG\\Prototype\\CharacterPrototype.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Prototype\\CharacterPrototype.cs",
+              "RelativeToolTip": "RPG\\Prototype\\CharacterPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:07:04.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPrototype.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Prototype\\IPrototype.cs",
+              "RelativeDocumentMoniker": "RPG\\Prototype\\IPrototype.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Prototype\\IPrototype.cs",
+              "RelativeToolTip": "RPG\\Prototype\\IPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:06:35.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Program.cs",
+              "RelativeDocumentMoniker": "RPG\\Program.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\Program.cs",
+              "RelativeToolTip": "RPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:35:01.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

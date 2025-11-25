@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6FEKM8tLB0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valij\\Academic Projects\\RPG\\RPG\\RPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valij\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\valij\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\valij\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\valij\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
