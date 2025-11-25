@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|c:\\users\\valij\\academic projects\\lab_2_facade\\lab_2_facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|solutionrelative:lab_2_facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|c:\\users\\valij\\academic projects\\lab_2_facade\\lab_2_facade\\facade\\hometheaterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|solutionrelative:lab_2_facade\\facade\\hometheaterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|c:\\users\\valij\\academic projects\\lab_2_facade\\lab_2_facade\\subsystems\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|solutionrelative:lab_2_facade\\subsystems\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|c:\\users\\valij\\academic projects\\lab_2_facade\\lab_2_facade\\subsystems\\theaterlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|solutionrelative:lab_2_facade\\subsystems\\theaterlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|c:\\users\\valij\\academic projects\\lab_2_facade\\lab_2_facade\\subsystems\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|solutionrelative:lab_2_facade\\subsystems\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|c:\\users\\valij\\academic projects\\lab_2_facade\\lab_2_facade\\subsystems\\streamingplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|solutionrelative:lab_2_facade\\subsystems\\streamingplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|c:\\users\\valij\\academic projects\\lab_2_facade\\lab_2_facade\\subsystems\\tuner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|solutionrelative:lab_2_facade\\subsystems\\tuner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|c:\\users\\valij\\academic projects\\lab_2_facade\\lab_2_facade\\subsystems\\amplifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E50C1AF-0A66-47ED-BC7A-75809C9268F7}|Lab_2_Facade\\Lab_2_Facade.csproj|solutionrelative:lab_2_facade\\subsystems\\amplifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Screen.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\Screen.cs",
+              "RelativeDocumentMoniker": "Lab_2_Facade\\Subsystems\\Screen.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\Screen.cs*",
+              "RelativeToolTip": "Lab_2_Facade\\Subsystems\\Screen.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:25:37.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheaterLight.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\TheaterLight.cs",
+              "RelativeDocumentMoniker": "Lab_2_Facade\\Subsystems\\TheaterLight.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\TheaterLight.cs*",
+              "RelativeToolTip": "Lab_2_Facade\\Subsystems\\TheaterLight.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:25:20.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projector.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\Projector.cs",
+              "RelativeDocumentMoniker": "Lab_2_Facade\\Subsystems\\Projector.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\Projector.cs*",
+              "RelativeToolTip": "Lab_2_Facade\\Subsystems\\Projector.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:24:58.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StreamingPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\StreamingPlayer.cs",
+              "RelativeDocumentMoniker": "Lab_2_Facade\\Subsystems\\StreamingPlayer.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\StreamingPlayer.cs*",
+              "RelativeToolTip": "Lab_2_Facade\\Subsystems\\StreamingPlayer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:24:36.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tuner.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\Tuner.cs",
+              "RelativeDocumentMoniker": "Lab_2_Facade\\Subsystems\\Tuner.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\Tuner.cs*",
+              "RelativeToolTip": "Lab_2_Facade\\Subsystems\\Tuner.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:24:10.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Amplifier.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\Amplifier.cs",
+              "RelativeDocumentMoniker": "Lab_2_Facade\\Subsystems\\Amplifier.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Subsystems\\Amplifier.cs*",
+              "RelativeToolTip": "Lab_2_Facade\\Subsystems\\Amplifier.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:23:50.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeTheaterFacade.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Facade\\HomeTheaterFacade.cs",
+              "RelativeDocumentMoniker": "Lab_2_Facade\\Facade\\HomeTheaterFacade.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Facade\\HomeTheaterFacade.cs*",
+              "RelativeToolTip": "Lab_2_Facade\\Facade\\HomeTheaterFacade.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:22:27.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_2_Facade\\Program.cs",
+              "ToolTip": "C:\\Users\\valij\\Academic Projects\\Lab_2_Facade\\Lab_2_Facade\\Program.cs*",
+              "RelativeToolTip": "Lab_2_Facade\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:21:32.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

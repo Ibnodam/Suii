@@ -1,0 +1,14 @@
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\bin\Debug\net8.0\Lab_2_Facade.exe
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\bin\Debug\net8.0\Lab_2_Facade.deps.json
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\bin\Debug\net8.0\Lab_2_Facade.runtimeconfig.json
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\bin\Debug\net8.0\Lab_2_Facade.dll
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\bin\Debug\net8.0\Lab_2_Facade.pdb
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\obj\Debug\net8.0\Lab_2_Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\obj\Debug\net8.0\Lab_2_Facade.AssemblyInfoInputs.cache
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\obj\Debug\net8.0\Lab_2_Facade.AssemblyInfo.cs
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\obj\Debug\net8.0\Lab_2_Facade.csproj.CoreCompileInputs.cache
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\obj\Debug\net8.0\Lab_2_Facade.dll
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\obj\Debug\net8.0\refint\Lab_2_Facade.dll
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\obj\Debug\net8.0\Lab_2_Facade.pdb
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\obj\Debug\net8.0\Lab_2_Facade.genruntimeconfig.cache
+C:\Users\valij\Academic Projects\Lab_2_Facade\Lab_2_Facade\obj\Debug\net8.0\ref\Lab_2_Facade.dll
