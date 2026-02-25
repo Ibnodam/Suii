@@ -1,7 +1,9 @@
+// App.jsx
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
-import HomePage from './pages/HomePage/HomePage';
-import Footer from './components/Footer.jsx'
+import HomePage from './pages/HomePage/HomePage.jsx';
+import OurServicesPage from './pages/ServicesPage/OurServicesPage.jsx'; // Импортируем страницу
+import Footer from './components/Footer.jsx';
 
 export default function App() {
   return (
@@ -11,6 +13,7 @@ export default function App() {
         <main className="flex-grow">
           <Routes>
             <Route path="/" element={<HomePage />} />
+            <Route path="/services" element={<OurServicesPage />} /> {/* Добавляем маршрут */}
           </Routes>
         </main>
         <Footer />
@@ -18,6 +21,29 @@ export default function App() {
     </Router>
   );
 }
+
+
+
+// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+// import Header from './components/Header';
+// import HomePage from './pages/HomePage/HomePage';
+// import Footer from './components/Footer.jsx'
+
+// export default function App() {
+//   return (
+//     <Router>
+//       <div className="min-h-screen flex flex-col">
+//         <Header />
+//         <main className="flex-grow">
+//           <Routes>
+//             <Route path="/" element={<HomePage />} />
+//           </Routes>
+//         </main>
+//         <Footer />
+//       </div>
+//     </Router>
+//   );
+// }
 
 
 // import { useState } from 'react'

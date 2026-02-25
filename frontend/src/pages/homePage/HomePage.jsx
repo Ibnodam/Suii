@@ -1,4 +1,3 @@
-// src/pages/HomePage/HomePage.jsx
 import Top from './Top.jsx';
 import About from './about/About.jsx'
 import FAQ from './FAQ.jsx'
