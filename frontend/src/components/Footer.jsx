@@ -100,7 +100,7 @@ export default function Footer() {
               />
 
               <button
-                className="absolute right-3 top-1/2 -translate-y-1/2 text-white/60 hover:text-white cursor-pointer"
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-white/60 hover:text-[#7772F1] cursor-pointer"
               >
                 →
               </button>

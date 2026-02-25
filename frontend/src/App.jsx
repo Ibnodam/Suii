@@ -2,7 +2,9 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import HomePage from './pages/HomePage/HomePage.jsx';
-import OurServicesPage from './pages/ServicesPage/OurServicesPage.jsx'; // Импортируем страницу
+import OurServicesPage from './pages/ServicesPage/OurServicesPage.jsx';
+// Импортируем страницу SEO
+import SearchEngineOptimizationPage from './pages/seoPage/SearchEngineOptimizationPage';
 import Footer from './components/Footer.jsx';
 
 export default function App() {
@@ -13,7 +15,9 @@ export default function App() {
         <main className="flex-grow">
           <Routes>
             <Route path="/" element={<HomePage />} />
-            <Route path="/services" element={<OurServicesPage />} /> {/* Добавляем маршрут */}
+            <Route path="/services" element={<OurServicesPage />} />
+            {/* Маршрут для SEO страницы */}
+            <Route path="/services/seo" element={<SearchEngineOptimizationPage />} />
           </Routes>
         </main>
         <Footer />
@@ -21,6 +25,33 @@ export default function App() {
     </Router>
   );
 }
+
+
+
+
+// // App.jsx
+// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+// import Header from './components/Header';
+// import HomePage from './pages/HomePage/HomePage.jsx';
+// import OurServicesPage from './pages/ServicesPage/OurServicesPage.jsx'; // Импортируем страницу
+// import Footer from './components/Footer.jsx';
+
+// export default function App() {
+//   return (
+//     <Router>
+//       <div className="min-h-screen flex flex-col">
+//         <Header />
+//         <main className="flex-grow">
+//           <Routes>
+//             <Route path="/" element={<HomePage />} />
+//             <Route path="/services" element={<OurServicesPage />} /> {/* Добавляем маршрут */}
+//           </Routes>
+//         </main>
+//         <Footer />
+//       </div>
+//     </Router>
+//   );
+// }
 
 
 

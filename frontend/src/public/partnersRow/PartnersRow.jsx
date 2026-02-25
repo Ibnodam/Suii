@@ -2,12 +2,12 @@
 import React from 'react';
 
 // Логотипы клиентов
-import forSale from './pics/partners/for_sale.png';
-import happyHome from './pics/partners/happyHome.png';
-import higher from './pics/partners/higher.png';
-import inDepth from './pics/partners/inDepth.png';
-import natural from './pics/partners/natural.png';
-import sunset from './pics/partners/sunset.png';
+import forSale from './for_sale.png';
+import happyHome from './happyHome.png';
+import higher from './higher.png';
+import inDepth from './inDepth.png';
+import natural from './natural.png';
+import sunset from './sunset.png';
 
 export default function PartnersRow() {
   const logos = [
